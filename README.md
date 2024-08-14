@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @M4nes
-- 👀 I’m interested in full-stack Devenloper
+- 👀 I’m interested in full-stack Developer
 - 🌱 I’m currently learning Html\Css
 - 📫 
