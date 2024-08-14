@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M4nes
+- 👋 Hi, mu nmae is Arthur Manes
 - 👀 I’m interested in full-stack Developer
 - 🌱 I’m currently learning Html\Css
 - 📫 
