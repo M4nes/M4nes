@@ -1,4 +1,4 @@
-- 👋 Hi, mu nmae is Arthur Manes
+- 👋 Hi, mu name is Arthur Manes
 - 👀 I’m interested in full-stack Developer
-- 🌱 I’m currently learning Html\Css
+- 🌱 I’m currently learning Node.js
 - 📫 
