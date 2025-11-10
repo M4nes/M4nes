@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Arthur Manes
-- 👀 I’m interested in full-stack Developer
-- 🌱 I’m currently learning Mobile Application/React Native
-- 📫 
+- 👀 I’m learning programming to become a full-stack developer
+- 📫 I’m currently learning Mobile Application
+- 🌱
